@@ -266,3 +266,21 @@
 2020-08-14 14:40:12,935 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-08-14 14:40:12,936 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-14 14:40:12,936 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/src/test/resources
+2020-08-14 14:44:12,871 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:boot-mvc-e2:0.0.1-SNAPSHOT @ /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/pom.xml.
+2020-08-14 14:44:13,349 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-mvc-e2/src/main/java
+2020-08-14 14:44:13,349 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /boot-mvc-e2/src/main/resources
+2020-08-14 14:44:13,352 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /boot-mvc-e2/src/main/resources
+2020-08-14 14:44:13,356 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-mvc-e2/src/test/java
+2020-08-14 14:44:13,774 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-08-14 14:44:13,774 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-14 14:44:13,981 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:boot-mvc-e2:0.0.1-SNAPSHOT @ /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/pom.xml.
+2020-08-14 14:44:14,159 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-mvc-e2/src/main/java
+2020-08-14 14:44:14,159 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /boot-mvc-e2/src/main/resources
+2020-08-14 14:44:14,160 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /boot-mvc-e2/src/main/resources
+2020-08-14 14:44:14,163 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-mvc-e2/src/test/java
+2020-08-14 14:44:14,315 [Worker-4: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-08-14 14:44:14,868 [Worker-11: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-14 14:44:14,869 [Worker-11: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-14 14:44:14,877 [Worker-11: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-14 14:44:14,878 [Worker-11: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-14 14:44:14,878 [Worker-11: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/src/test/resources
