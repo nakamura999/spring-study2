@@ -369,3 +369,20 @@
 2020-08-14 15:23:07,887 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-08-14 15:23:07,888 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-14 15:23:07,889 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/src/test/resources
+2020-08-14 15:29:12,092 [Worker-18: ビルド] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:boot-mvc-e2:0.0.1-SNAPSHOT @ /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/pom.xml.
+2020-08-14 15:29:12,497 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-14 15:29:12,499 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-14 15:29:12,500 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-14 15:29:12,502 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-14 15:29:12,502 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/src/test/resources
+2020-08-14 15:29:14,023 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-14 15:29:14,023 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-14 15:29:14,031 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-14 15:29:14,032 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-14 15:29:14,032 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/src/test/resources
+2020-08-14 15:29:19,971 [Worker-28: ビルド] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:boot-mvc-e2:0.0.1-SNAPSHOT @ /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/pom.xml.
+2020-08-14 15:29:20,151 [Worker-28: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-14 15:29:20,153 [Worker-28: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-14 15:29:20,153 [Worker-28: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-14 15:29:20,155 [Worker-28: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-14 15:29:20,155 [Worker-28: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-mvc-e2/src/test/resources
