@@ -28,7 +28,7 @@ public class Claim {
 	private String address;
 	
 	@NotBlank
-	@Pattern(regexp = "\"[0-9-]*")
+	@Pattern(regexp = "[0-9-]*")
 	// 半角数字かハイフン
 	private String phoneNumber;
 	
@@ -37,6 +37,10 @@ public class Claim {
 	@NumberFormat(pattern = "#,###")
 	// 数値へ変換（指定パターンの文字列を、数値に型変換）
 	private BigDecimal price;
+	
+	@NotNull
+	@DateTimeFormat(iso = ISO.DATE)
+	private LocalDate purchaseDate;
 	
 	@NotNull
 	@DateTimeFormat(iso = ISO.DATE)
