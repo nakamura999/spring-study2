@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/Users/masahiro/Desktop/java-spring/spring-study2/.metadata/.plugins/org.eclipse.jdt.core
