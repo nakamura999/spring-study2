@@ -642,3 +642,123 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:45.921
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:45.922
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:45.923
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:45.923
+!MESSAGE executing callback sts4.classpath.wCulfHOh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:45.938
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.083
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.085
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.087
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.087
+!MESSAGE executing callback sts4.classpath.wCulfHOh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.098
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.273
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.275
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.276
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.276
+!MESSAGE executing callback sts4.classpath.wCulfHOh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.283
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.327
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.329
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.331
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.331
+!MESSAGE executing callback sts4.classpath.wCulfHOh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.335
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.392
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.395
+!MESSAGE classpath=95 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.396
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa false 95
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.396
+!MESSAGE executing callback sts4.classpath.wCulfHOh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.422
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.483
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.485
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.486
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.486
+!MESSAGE executing callback sts4.classpath.wCulfHOh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:46.490
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:47.125
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:47.127
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:47.128
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:47.128
+!MESSAGE executing callback sts4.classpath.wCulfHOh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:47.133
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:56.782
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:56.784
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:56.785
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:56.786
+!MESSAGE executing callback sts4.classpath.wCulfHOh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:56.790
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
