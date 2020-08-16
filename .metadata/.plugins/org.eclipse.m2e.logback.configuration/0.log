@@ -943,3 +943,21 @@
 2020-08-15 13:51:07,666 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-08-15 13:51:07,667 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-15 13:51:07,667 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-16 11:16:54,245 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:boot-jpa-2:0.0.1-SNAPSHOT @ /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa-2/pom.xml.
+2020-08-16 11:16:54,793 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-jpa-2/src/main/java
+2020-08-16 11:16:54,794 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /boot-jpa-2/src/main/resources
+2020-08-16 11:16:54,797 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /boot-jpa-2/src/main/resources
+2020-08-16 11:16:54,801 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-jpa-2/src/test/java
+2020-08-16 11:16:55,568 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-08-16 11:16:55,570 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-16 11:16:55,715 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:boot-jpa-2:0.0.1-SNAPSHOT @ /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa-2/pom.xml.
+2020-08-16 11:16:55,899 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-jpa-2/src/main/java
+2020-08-16 11:16:55,899 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /boot-jpa-2/src/main/resources
+2020-08-16 11:16:55,901 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /boot-jpa-2/src/main/resources
+2020-08-16 11:16:55,903 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /boot-jpa-2/src/test/java
+2020-08-16 11:16:56,106 [Worker-85: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-08-16 11:16:56,795 [Worker-87: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-16 11:16:56,796 [Worker-87: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-16 11:16:56,796 [Worker-87: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-16 11:16:56,798 [Worker-87: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-16 11:16:56,798 [Worker-87: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa-2/src/test/resources

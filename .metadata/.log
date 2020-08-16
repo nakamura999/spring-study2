@@ -762,3 +762,78 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-15 10:18:56.790
 !MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:54.775
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:54.776
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:54.777
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa-2 false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:54.777
+!MESSAGE executing callback sts4.classpath.wCulfHOh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.107
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.107
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.110
+!MESSAGE classpath=103 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.112
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa-2 false 103
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.112
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.114
+!MESSAGE classpath=103 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.115
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa-2 false 103
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.116
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.117
+!MESSAGE classpath=103 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.118
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa-2 false 103
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.119
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.121
+!MESSAGE classpath=103 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.122
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa-2 false 103
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.123
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.127
+!MESSAGE classpath=103 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.128
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa-2 false 103
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.129
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.131
+!MESSAGE classpath=103 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.133
+!MESSAGE buffering callback sts4.classpath.wCulfHOh boot-jpa-2 false 103
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.133
+!MESSAGE executing callback sts4.classpath.wCulfHOh 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-16 11:16:56.202
+!MESSAGE executing callback sts4.classpath.wCulfHOh SUCCESS [終了しました]
