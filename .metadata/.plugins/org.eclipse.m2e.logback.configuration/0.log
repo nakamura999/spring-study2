@@ -883,3 +883,63 @@
 2020-08-15 10:20:58,207 [Worker-48: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-08-15 10:20:58,208 [Worker-48: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-15 10:20:58,208 [Worker-48: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 11:31:56,326 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:31:56,327 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 11:31:56,328 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 11:31:56,330 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:31:56,330 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 11:33:17,719 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:33:17,719 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 11:33:17,720 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 11:33:17,722 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:33:17,722 [Worker-54: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 11:36:17,146 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:36:17,148 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 11:36:17,149 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 11:36:17,151 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:36:17,151 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 11:38:09,992 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:38:09,993 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 11:38:09,993 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 11:38:09,995 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:38:09,995 [Worker-60: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 11:39:21,828 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:39:21,829 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 11:39:21,830 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 11:39:21,831 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:39:21,831 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 11:41:43,300 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:41:43,301 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 11:41:43,302 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 11:41:43,303 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:41:43,303 [Worker-58: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 11:47:44,694 [Worker-66: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:47:44,696 [Worker-66: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 11:47:44,699 [Worker-66: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 11:47:44,702 [Worker-66: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 11:47:44,702 [Worker-66: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 12:01:14,101 [Worker-68: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 12:01:14,104 [Worker-68: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 12:01:14,107 [Worker-68: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 12:01:14,110 [Worker-68: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 12:01:14,110 [Worker-68: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 13:23:48,993 [Worker-76: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 13:23:48,995 [Worker-76: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 13:23:48,996 [Worker-76: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 13:23:49,000 [Worker-76: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 13:23:49,001 [Worker-76: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 13:48:27,887 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 13:48:27,889 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 13:48:27,891 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 13:48:27,893 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 13:48:27,893 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 13:49:07,055 [Worker-81: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 13:49:07,056 [Worker-81: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 13:49:07,057 [Worker-81: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 13:49:07,059 [Worker-81: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 13:49:07,059 [Worker-81: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
+2020-08-15 13:51:07,665 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 13:51:07,666 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-15 13:51:07,666 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-15 13:51:07,667 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-15 13:51:07,667 [Worker-78: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/masahiro/Desktop/java-spring/spring-study2/boot-jpa/src/test/resources
