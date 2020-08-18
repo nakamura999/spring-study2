@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial scale=1">
+<link rel="stylesheet" th:href="@{/webjars/bootstrap/css/bootstrap.min.css}"> 
+<title>Insert title here</title>
+</head>
+<body class="bg-light">
+	 <div class="container">
+	 	<div class="row justify-content-md-center">
+	 		<div class="col-md-4">
+	 			<br>
+	    		<h3>コメント登録</h3>
+				<form th:action="@{/add}" th:object="${comment}" method="post">
+					<div class="form-group">
+						<label for="content">コメント:</label>
+						<input type="text" class="form-control" th:field="*{content}">
+					</div>
+					<button class="btn btn-primary">登録</button>
+					<br>
+					<small style="color: red" th:errors="*{content}"></small>
+				</form>
+			
+				<br>
+				<h3>一覧</h3>
+				<table class="table table-hover table-inverse">
+				    <thead>
+          			 	<tr>
+            				<th>ID</th>
+            				<th>コメント</th>
+          				</tr>
+        			</thead>
+					<tbody th:each="comment : ${comments}" th:inline="text">
+						<tr>
+							<th>[[${comment.id}]]</th>
+							<th>[[${comment.content}]]</th>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+<script th:src="@{/webjars/jquery/jquery.min.js}"></script>
+<script th:src="@{/webjars/popper.js/umd/popper.min.js}"></script>
+<script th:src="@{/webjars/bootstrap/js/bootstrap.min.js}"></script>
+</body>
+</html>
